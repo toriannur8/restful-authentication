@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
