@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Update CI.md with CI links (#8786)
