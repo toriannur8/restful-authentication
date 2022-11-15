@@ -1,1 +1,1 @@
-update requirements.txt
+Batch inference fixes (#8854)
