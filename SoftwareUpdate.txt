@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
