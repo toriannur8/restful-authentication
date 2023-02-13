@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
