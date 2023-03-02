@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
