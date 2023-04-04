@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Add type hinting to explorer.py (#7388)
