@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
