@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
