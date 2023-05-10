@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
