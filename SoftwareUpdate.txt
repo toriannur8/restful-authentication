@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
