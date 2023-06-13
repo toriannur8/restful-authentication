@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Pass callbacks to validator (#7320)
