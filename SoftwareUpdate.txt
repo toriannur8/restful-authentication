@@ -1,1 +1,1 @@
-Add TF SavedModel Docs Integrations Page (#9162)
+Expand Model method type hinting (#8279)
