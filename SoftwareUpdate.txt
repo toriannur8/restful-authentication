@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Fix undefined ‘im_array’ bug in predict.md (#8565)
