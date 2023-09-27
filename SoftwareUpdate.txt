@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
