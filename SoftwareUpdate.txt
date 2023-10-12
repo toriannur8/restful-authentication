@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Add docstrings to new HUB functions (#7576)
