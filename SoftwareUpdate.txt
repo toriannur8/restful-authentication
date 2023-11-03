@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
