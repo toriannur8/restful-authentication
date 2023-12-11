@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+OpenVino 2024.0.0 (#8726)
