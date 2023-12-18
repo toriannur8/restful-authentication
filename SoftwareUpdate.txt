@@ -1,1 +1,1 @@
-ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
