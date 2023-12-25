@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
