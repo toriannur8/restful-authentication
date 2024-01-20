@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
