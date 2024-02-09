@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+ultralytics 8.0.228 add training time argument (#7054)
