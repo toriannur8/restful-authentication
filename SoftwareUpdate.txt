@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Add yolo_bbox2segment docs reference (#7751)
