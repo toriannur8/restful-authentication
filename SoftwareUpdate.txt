@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
