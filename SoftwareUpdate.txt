@@ -1,1 +1,1 @@
-Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
