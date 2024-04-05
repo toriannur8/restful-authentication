@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+Add Neural Magic Docs integrations page (#7234)
