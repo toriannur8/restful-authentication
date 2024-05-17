@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Fix OBB xywh-angle concatenation bug (#7404)
