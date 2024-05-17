@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
